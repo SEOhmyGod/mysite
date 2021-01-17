@@ -10,5 +10,5 @@ This is probably going to be a mess for a long time, as I'm teaching myself web 
 
 Additionally, there'll be some...interesting tools popping up and other random elements as I figure out how to develop my strand of the web. 
 
-(![dumpsterfire](url:/img/dumpsterfire.jpg "Burny")
+(![dumpsterfire](url: "/img/dumpsterfire.jpg" "Burny")
 

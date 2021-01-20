@@ -8,17 +8,19 @@ const SEO = ({ title, description, image, article }) => {
   const { site } = useStaticQuery(query)
   const {
     defaultTitle,
-  /*  titleTemplate,*/
+    titleTemplate,
     defaultDescription,
     siteUrl,
     defaultImage,
     twitterUsername,
+    canonical=
   } = site.siteMetadata
   const seo = {
-    title: "SeOhMyGod | Thomas Boyle" || defaultTitle,
+    title: "SeOhMyGod | Thomas Boyle" || "SeOhMyGod | Thomas Boyle",
     description: "I'm a Product Manager with a focus on SEO, and it's high time I actually practically apply the knowledge I spend my days encouraging others to use" || defaultDescription,
-    image: `${siteUrl}${"/img/dumpsterfire.jpg" || defaultImage}`,
+    image: `${siteUrl}${"/img/dumpsterfire.jpg" || "/img/dumpsterfire.jpg"}`,
     url: `${siteUrl}${pathname}`,
+    twitterUsername: "@Difeorleth"
   }
   return (
     <Helmet title={seo.title} titleTemplate={titleTemplate}>
@@ -62,6 +64,7 @@ const query = graphql`
       siteMetadata {
         defaultTitle: title
         defaultDescription: description
+        titleTemplate: title
         siteUrl: url
         defaultImage: image
         twitterUsername

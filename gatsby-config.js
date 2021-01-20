@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'SEOhMyGod | Thomas Boyle',
-    description:"I'm a Product Manager with a focus on SEO, and it's high time I actually practically apply the knowledge I spend my days encouraging others to use."",
+    description:"I'm a Product Manager with a focus on SEO, and it's high time I actually practically apply the knowledge I spend my days encouraging others to use.",
       url: "https://www.seohmygod.me", // No trailing slash allowed!
     image: "/img/dumpsterfire.jpg", // Path to your image you placed in the 'static' folder
     twitterUsername: "@Difeorleth",

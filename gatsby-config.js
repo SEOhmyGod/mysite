@@ -5,7 +5,7 @@ module.exports = {
       '',
       url: "https://www.seohmygod.me", // No trailing slash allowed!
     image: "/img/dumpsterfire.jpg", // Path to your image you placed in the 'static' folder
-    twitterUsername: @Difeorleth
+    twitterUsername: "@Difeorleth"
   },
   plugins: [
     'gatsby-plugin-react-helmet',

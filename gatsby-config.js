@@ -2,10 +2,26 @@ module.exports = {
   siteMetadata: {
     title: 'SEOhMyGod | Thomas Boyle',
     description:
-      '',
+      "I'm a Product Manager with a focus on SEO, and it's high time I actually practically apply the knowledge I spend my days encouraging others to use."",
       url: "https://www.seohmygod.me", // No trailing slash allowed!
     image: "/img/dumpsterfire.jpg", // Path to your image you placed in the 'static' folder
-    twitterUsername: "@Difeorleth"
+    twitterUsername: "@Difeorleth",
+    author: "Thomas Boyle",
+    language:"en",
+    canonical:"https://www.seohmygod.me",
+    og:type="website",
+og:url="https://metatags.io/",
+og:title="SeOhMyGod - Thomas Boyle",
+og:description="I'm a Product Manager with a focus on SEO, and it's high time I actually practically apply the knowledge I spend my days encouraging others to use.",
+og:image="/img/dumpsterfire.jpg",
+
+
+twitter:card="summary_large_image",
+twitter:url="https://metatags.io/",
+twitter:title="SeOhMyGod - Thomas Boyle",
+twitter:description="I'm a Product Manager with a focus on SEO, and it's high time I actually practically apply the knowledge I spend my days encouraging others to use.",
+twitter:image="/img/dumpsterfire.jpg",
+
   },
   plugins: [
     'gatsby-plugin-react-helmet',

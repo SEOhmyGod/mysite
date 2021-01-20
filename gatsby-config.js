@@ -23,7 +23,14 @@ twitter:image="/img/dumpsterfire.jpg",
 
   },
   plugins: [
-    'gatsby-plugin-react-helmet',
+    `gatsby-plugin-react-helmet`,
+  {
+    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+    options: {
+      siteUrl: `https://www.example.com`,
+    },
+  },
+  'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support

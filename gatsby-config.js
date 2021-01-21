@@ -8,6 +8,7 @@ module.exports = {
     author: "Thomas Boyle",
     language:"en",
     canonical:"https://www.seohmygod.me",
+    siteurl:"https://www.seohmygod.me",
     og:type="website",
 og:url="https://metatags.io/",
 og:title="SeOhMyGod - Thomas Boyle",

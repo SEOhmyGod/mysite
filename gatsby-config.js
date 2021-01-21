@@ -30,7 +30,6 @@ twitter:image="/img/dumpsterfire.jpg",
       siteUrl: `https://www.example.com`,
     },
   },
-  'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support

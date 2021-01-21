@@ -13,7 +13,6 @@ const SEO = ({ title, description, image, article }) => {
     siteUrl,
     defaultImage,
     twitterUsername,
-    canonical=
   } = site.siteMetadata
   const seo = {
     title: "SeOhMyGod | Thomas Boyle" || "SeOhMyGod | Thomas Boyle",
@@ -67,7 +66,7 @@ const query = graphql`
         titleTemplate: title
         siteUrl: url
         defaultImage: image
-        twitterUsername
+        twitterUsername: twitterUsername
       }
     }
   }

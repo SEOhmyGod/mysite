@@ -91,8 +91,6 @@ export const IndexPageTemplate = ({
                     <Link className="btn" to="/products">
                       See all products
                       style={{
-                        boxShadow:
-                          'rgb(105, 105, 105) 0.5rem 0px 0px, rgb(105, 105, 105) -0.5rem 0px 0px',
                         backgroundColor: 'rgb(0, 0, 0)',
                         color: 'white'
                       }}
@@ -108,8 +106,6 @@ export const IndexPageTemplate = ({
                     <Link className="btn" to="/blog">
                       Read more
                       style={{
-                        boxShadow:
-                          'rgb(105, 105, 105) 0.5rem 0px 0px, rgb(105, 105, 105) -0.5rem 0px 0px',
                         backgroundColor: 'rgb(0, 0, 0)',
                         color: 'white'
                       }}

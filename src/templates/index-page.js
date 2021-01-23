@@ -90,6 +90,12 @@ export const IndexPageTemplate = ({
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
                       See all products
+                      style={{
+                        boxShadow:
+                          'rgb(105, 105, 105) 0.5rem 0px 0px, rgb(105, 105, 105) -0.5rem 0px 0px',
+                        backgroundColor: 'rgb(0, 0, 0)',
+                        color: 'white'
+                      }}
                     </Link>
                   </div>
                 </div>
@@ -101,6 +107,12 @@ export const IndexPageTemplate = ({
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
                       Read more
+                      style={{
+                        boxShadow:
+                          'rgb(105, 105, 105) 0.5rem 0px 0px, rgb(105, 105, 105) -0.5rem 0px 0px',
+                        backgroundColor: 'rgb(0, 0, 0)',
+                        color: 'white'
+                      }}
                     </Link>
                   </div>
                 </div>

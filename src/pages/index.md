@@ -2,8 +2,8 @@
 templateKey: index-page
 title: SEOhmygod
 image: /img/dumpsterfire.jpg
-heading: A testing ground for everything and nothing
-subheading: Maybe some tooling too
+heading: Maybe some tooling too
+subheading: A testing ground for everything and nothing
 
 main:
   heading: Hi Tom, I'm me

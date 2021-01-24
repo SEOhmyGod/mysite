@@ -88,7 +88,7 @@ export const IndexPageTemplate = ({
                       See all products
                       style={{
                         backgroundColor: 'rgb(0, 0, 0)',
-                        color: 'white'
+                        color: 'white',
                       }}
                     </Link>
                   </div>
@@ -103,7 +103,7 @@ export const IndexPageTemplate = ({
                       Read more
                       style={{
                         backgroundColor: 'rgb(0, 0, 0)',
-                        color: 'white'
+                        color: 'white',
                       }}
                     </Link>
                   </div>

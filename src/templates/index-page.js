@@ -84,12 +84,12 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
+                    <Link className="btn" to="/products"
                       See all products
                       style={{
                         backgroundColor: 'rgb(0, 0, 0)',
                         color: 'white',
-                      }}
+                      }}>
                     </Link>
                   </div>
                 </div>
@@ -99,12 +99,12 @@ export const IndexPageTemplate = ({
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
+                    <Link className="btn" to="/blog"
                       Read more
                       style={{
                         backgroundColor: 'rgb(0, 0, 0)',
                         color: 'white',
-                      }}
+                      }}>
                     </Link>
                   </div>
                 </div>

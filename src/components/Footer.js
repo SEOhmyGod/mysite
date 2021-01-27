@@ -12,11 +12,14 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
+        <a title="twitter" href="https://twitter.com/Difeorleth">
           <img
-            src={logo}
-            alt="monkey"
-            style={{ width: '14em', height: '10em' }}
+            className="fas fa-lg"
+            src={twitter}
+            alt="Difeorleth"
+            style={{ width: '1em', height: '1em' }}
           />
+        </a>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
@@ -62,16 +65,6 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                 </section>
-              </div>
-              <div className="column is-4 social">
-                <a title="twitter" href="https://twitter.com/Difeorleth">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Difeorleth"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
               </div>
             </div>
           </div>

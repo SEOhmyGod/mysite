@@ -2,7 +2,6 @@
 templateKey: index-page
 title: SEOhmyGod
 image: /img/dumpsterfire.jpg
-heading: Maybe some tooling too
 subheading: A testing ground for everything and nothing
 
 main:

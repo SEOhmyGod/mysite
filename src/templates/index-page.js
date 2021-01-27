@@ -78,8 +78,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                    
-                    </h3>
+                  
                     <p>{description}</p>
                   </div>
                 </div>

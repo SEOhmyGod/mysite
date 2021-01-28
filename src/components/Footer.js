@@ -10,7 +10,7 @@ import twitter from '../img/social/twitter.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer has-background-primary has-text-primary-invite">
         <div className="content has-text-centered">
         <a title="twitter" href="https://twitter.com/Difeorleth">
           <img
@@ -21,8 +21,8 @@ const Footer = class extends React.Component {
           />
         </a>
         </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div className="content has-text-centered has-background-primary has-text-primary-invert">
+          <div className="container has-background-primary has-text-primary-invert">
             <div style={{ maxWidth: '200vw' }} className="columns">
               <div className="column is-4">
                 <section className="menu">

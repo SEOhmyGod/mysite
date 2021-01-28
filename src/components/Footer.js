@@ -17,7 +17,7 @@ const Footer = class extends React.Component {
             className="fas fa-lg"
             src={twitter}
             alt="Difeorleth"
-            style={{ width: '1em', height: '1em' }}
+            style={{ width: '1em', height: '1em',color: 'white' }}
           />
         </a>
         </div>

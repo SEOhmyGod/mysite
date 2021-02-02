@@ -20,6 +20,14 @@ const Footer = class extends React.Component {
             style={{ width: '1em', height: '1em',color: 'rgb(70,174,212)' }}
           />
         </a>
+        <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
+          <img
+            className="fas fa-lg"
+            src="/img/RGfavicon-32x32.png"
+            alt="Thomas Boyle"
+          //  style={{ width: '1em', height: '1em',color: 'rgb(70,174,212)' }}
+          />
+        </a>
         </div>
         <div className="content has-text-centered has-background-primary has-text-primary-invert">
           <div className="container has-background-primary has-text-primary-invert">

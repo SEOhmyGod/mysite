@@ -16,15 +16,24 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
+  <picture
+  className="full-width-image margin-top-0"
+  style={{
+    backgroundPosition: `top left`,
+    backgroundAttachment: `fixed`,
+  }}
+<source srcset="img/dumpsterfire.avif" type="image/avif">
+<img src="img/dumpsterfire.jpg" alt="dumpsterfire">
+>
+//   <div
+//      className="full-width-image margin-top-0"
+//      style={{
+//        backgroundImage: `url(${
+//          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+//        })`,
+//        backgroundPosition: `top left`,
+//        backgroundAttachment: `fixed`,
+//      }}
     >
       <div
         style={{
@@ -78,7 +87,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                  
+
                     <p>{description}</p>
                   </div>
                 </div>

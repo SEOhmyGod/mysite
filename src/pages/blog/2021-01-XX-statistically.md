@@ -19,11 +19,11 @@ featuredimage: /img/merkel queen.png
 feeling that the word is similar in german, but is it really the right word? what are the odds?
 Here's a non-exhaustive look at false friends & similar words, and some half made up graphs to make it look scientific
 
-false friends list
+## false friends list
 | German        | English       | German meaning  | English Meaning | Example of fallout |
 | ------------- |:-------------:| ---------------:|----------------:|-------------------:|
-| wort          | word          | definition      |      potato     |      potato        |
-| wort2         | word2         |   definition    |   questo        |      potato        |
+| gift          | word          | definition      |      potato     |      potato        |
+| dick         | word2         |   definition    |   questo        |      potato        |
 | wort3         | word 3        |    deifnition   |   ideal         |      potato        |
 >
 https://www.englisch-hilfen.de/en/words/false_friends.htm
@@ -32,17 +32,19 @@ https://www.thelocal.de/20180312/the-top-10-false-friends-between-german-and-eng
  gift (das gift?)
 become
 >
-Cognates
+## Cognates (True Friends who help you hide ze Körper)
 https://www.englisch-hilfen.de/en/words/true_friends.htm
 https://www.germanlw.com/same-words-in-german-and-english/
 https://learn-german-easily.com/same-meaning-in-german-and-english
 everything latin, ever
-
 >
-sum each group
-make a terrible graph
->
-conclusion
->
+## Edge cases / weirdness
 comments, like different pronunciation despite being same word/spelling
 anedocte anesthesia
+>
+## Summation & Conclusion
+summed table
+terrible graph
+suggestions of missing words to increase exhaustiveness please tweet @Difeorleth
+
+>

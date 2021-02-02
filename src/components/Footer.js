@@ -17,7 +17,7 @@ const Footer = class extends React.Component {
             className="fas fa-lg"
             src={twitter}
             alt="Difeorleth"
-            style={{ width: '1em', height: '1em',color: 'rgb(70,174,212)' }}
+            style={{ width: '1em', height: '1em',color: 'rgb(242,242,242)' }}
           />
         </a>
         <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
@@ -25,7 +25,7 @@ const Footer = class extends React.Component {
             className="fas fa-lg"
             src="/img/RGfavicon-32x32.png"
             alt="Thomas Boyle"
-          //  style={{ width: '1em', height: '1em',color: 'rgb(70,174,212)' }}
+           style={{ width: '1em', height: '1em',color: 'rgb(242,242,242)' }}
           />
         </a>
         </div>

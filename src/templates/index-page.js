@@ -16,15 +16,10 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-  <picture
-  className="full-width-image margin-top-0"
-  style={{
-    backgroundPosition: `top left`,
-    backgroundAttachment: `fixed`,
-  }}
-<source srcset="img/dumpsterfire.avif" type="image/avif">
-<img src="img/dumpsterfire.jpg" alt="dumpsterfire">
->
+    <picture>
+      <source srcset="img/dumpsterfire.avif" type="image/avif">
+      <img src="img/dumpsterfire.jpg" alt="dumpsterfire">
+    </picture>
 //   <div
 //      className="full-width-image margin-top-0"
 //      style={{

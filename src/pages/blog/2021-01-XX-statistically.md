@@ -8,10 +8,10 @@ tags:
   - languages
   - science
   - badmath
-featuredimage: \img\merkel_queen.jpeg
+featuredimage: /img/merkel_queen.jpeg
 ---
 
-![merkelwürdig](\img\merke queen.jpg)
+![merkelwürdig](/img/merke queen.jpeg)
 >
 ## So you're learning German, and you're not sure what words to trust?
 >

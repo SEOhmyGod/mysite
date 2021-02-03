@@ -16,11 +16,6 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <picture
-      className="full-width-image margin-top-0"
-  	<source srcset="img/dumpsterfire.avif" type="image/avif">
-  	<img src="img/dumpsterfire.jpg" alt="fire">
-    >
       <div
         style={{
           display: 'flex',

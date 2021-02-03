@@ -16,19 +16,10 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-  <picture>
-	<source srcset="img/dumpsterfire.avif" type="image/avif">
-	<img src="img/dumpsterfire.jpg" alt="A Hunk a hunk a burnin' love">
-</picture>
-    <div
+    <picture
       className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
+  	<source srcset="img/dumpsterfire.avif" type="image/avif">
+  	<img src="img/dumpsterfire.jpg" alt="fire">
     >
       <div
         style={{

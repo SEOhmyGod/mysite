@@ -13,10 +13,16 @@ featuredimage: /img/merkel_queen.jpeg
 
 ![merkelwürdig](/img/merkel_queen.jpeg)
 >
-## So you're learning German, and you're not sure what words to trust?
->
-feeling that the word is similar in german, but is it really the right word? what are the odds?
-Here's a non-exhaustive look at false friends & similar words, and some half made up graphs to make it look scientific
+## So you're learning German
+
+Half way through an article, or in the middle of a conversation, patiently waiting for the verb to arrive at the end of a sentence (The quick brown fox over the lonely dog jumps, z.b.), and **blam:**  
+There's a word that you recognize, that doesn't immediately induce Duo-based PTSD. A word from a language you actually speak with confidence! There's three ways it can go down from here:
+- this word is living proof of the shared history of English and German, ready to lend you a hand in this most difficult time, trying to explain your favourite food to your inlaws
+- this word has the exact opposite meaning that it has in English, and will sabotage your confidence and credibility for years to come.
+- this word has the exact same meaning, but is pronounced so differently for a while you wonder if you've forgotten how to speak entirely, until eventually it clicks ("Ahhh, Ma-te-ri-**al**!" )
+
+Obviously, the road ahead to Fleißigkeit is fraught with danger, but you need to act quickly. What are the chances of each of the above cases? What are the odds?
+Here's a non-exhaustive look at cognates, false friends & similar words, bundled into some vaguely scientific-looking graphs to reassure you that this is trustworthy to some degree.
 <!---
 ## false friends list
 | German        | English       | German meaning  | English Meaning | Example of fallout |
@@ -53,6 +59,8 @@ anedocte anesthesia
 ## Summation & Conclusion
 summed table
 terrible graph
+
 suggestions of missing words to increase exhaustiveness please tweet @Difeorleth
 
 -->
+![santaeatyourheartout](/img/graph.jpg)

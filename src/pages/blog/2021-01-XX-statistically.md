@@ -17,7 +17,7 @@ featuredimage: /img/merkel_queen.jpeg
 >
 feeling that the word is similar in german, but is it really the right word? what are the odds?
 Here's a non-exhaustive look at false friends & similar words, and some half made up graphs to make it look scientific
-
+<!---
 ## false friends list
 | German        | English       | German meaning  | English Meaning | Example of fallout |
 | ------------- |:-------------:| ---------------:|----------------:|-------------------:|
@@ -55,4 +55,4 @@ summed table
 terrible graph
 suggestions of missing words to increase exhaustiveness please tweet @Difeorleth
 
->
+-->

@@ -52,9 +52,9 @@ SEO.propTypes = {
   article: PropTypes.bool,
 }
 SEO.defaultProps = {
-  title: null,
-  description: null,
-  image: null,
+  title: 'SEOhMyGod | Thomas Boyle',
+  description: "I'm a Product Manager with a focus on SEO, and it's high time I actually practically apply the knowledge I spend my days encouraging others to use.",
+  image:  'img/dumpsterfire.jpg',
   article: false,
 }
 const query = graphql`

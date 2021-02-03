@@ -16,8 +16,6 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-<<<<<<< HEAD
-=======
     <div
       className="full-width-image margin-top-0"
       style={{
@@ -28,7 +26,6 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
->>>>>>> parent of 85a3c2c... Update index-page.js
       <div
         style={{
           display: 'flex',
@@ -81,7 +78,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                  
+
                     <p>{description}</p>
                   </div>
                 </div>

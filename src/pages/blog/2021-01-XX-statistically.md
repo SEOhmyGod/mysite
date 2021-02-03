@@ -11,7 +11,7 @@ tags:
 featuredimage: /img/merkel_queen.jpeg
 ---
 
-![merkelwürdig](/img/merke queen.jpeg)
+![merkelwürdig](/img/merkel_queen.jpeg)
 >
 ## So you're learning German, and you're not sure what words to trust?
 >

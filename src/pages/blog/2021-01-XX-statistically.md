@@ -8,10 +8,10 @@ tags:
   - languages
   - science
   - badmath
-featuredimage: /img/merkel_queen.jpg
+featuredimage: \img\merkel_queen.jpeg
 ---
 
-![merkelwürdig](/img/merke queen.jpg)
+![merkelwürdig](\img\merke queen.jpg)
 >
 ## So you're learning German, and you're not sure what words to trust?
 >
@@ -22,8 +22,17 @@ Here's a non-exhaustive look at false friends & similar words, and some half mad
 | German        | English       | German meaning  | English Meaning | Example of fallout |
 | ------------- |:-------------:| ---------------:|----------------:|-------------------:|
 | gift          | word          | definition      |      potato     |      potato        |
-| dick         | word2         |   definition    |   questo        |      potato        |
-| wort3         | word 3        |    deifnition   |   ideal         |      potato        |
+| dick          | word2         |   definition    |   questo        |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+| bekommen      | word 3        |    deifnition   |   ideal         |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+| impregnieren  | word 3        |    deifnition   |   ideal         |      potato        |
+
 >
 https://www.englisch-hilfen.de/en/words/false_friends.htm
 https://www.fluentu.com/blog/german/false-friends-english-german/

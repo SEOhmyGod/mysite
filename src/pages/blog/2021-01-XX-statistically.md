@@ -9,7 +9,7 @@ tags:
   - science
   - badmath
 
-featuredimage: /img/merkel queen.png
+featuredimage: /img/merkel queen.jpg
 ---
 
 ![merkelwürdig](/img/merke queen.jpg)

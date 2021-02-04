@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: 'How Friendly is German to English? - A Statistical Study'
 date: 2021-01-29T15:04:10.000Z
 featuredpost: true
-description: Cognates and False Friends between German and English
+description: Disclaimer: I am neither a statistician, nor a data anaylst. 
 tags:
   - languages
   - science

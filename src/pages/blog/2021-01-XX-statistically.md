@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: 'How Friendly is German to English? - A Statistical Study'
 date: 2021-01-29T15:04:10.000Z
 featuredpost: true
-description: Disclaimer: I am neither a statistician, nor a data anaylst.
+description: Cognates and False Friends between German and English
 tags:
   - languages
   - science
@@ -44,10 +44,10 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | vor           | for           |    deifnition   |   ideal         |      potato        |
 | Handy         | handy         |    deifnition   |   ideal         |      potato        |
 | hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
+| note          | hose          |    deifnition   |   ideal         |      potato        |
+| prägnant          | hose          |    deifnition   |   ideal         |      potato        |
+| Rat         | hose          |    deifnition   |   ideal         |      potato        |
+| Rezept          | hose          |    deifnition   |   ideal         |      potato        |
 | hose          | hose          |    deifnition   |   ideal         |      potato        |
 | hose          | hose          |    deifnition   |   ideal         |      potato        |
 | hose          | hose          |    deifnition   |   ideal         |      potato        |

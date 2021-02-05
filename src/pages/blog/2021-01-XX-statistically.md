@@ -12,7 +12,7 @@ featuredimage: /img/merkel_queen.jpeg
 ---
 
 >
-## So you're learning German
+## So you're learning German {#intro}
 
 Half way through an article, or in the middle of a conversation, patiently waiting for the verb to arrive at the end of a sentence (The quick brown fox over the lonely dog jumps, z.b.), and **blam:**  
 There's a word that you recognize, that doesn't immediately induce Duo-based PTSD. A word from a language you actually speak with confidence! There's at least three ways it can go down from here:
@@ -32,7 +32,7 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | dick          | dick          |   thick    |   penis, Little Richard        |      Dickmilch, 'nuff said'       |
 | impregnieren  | impregnate    |    to proof, to coat   |   to proof, to coat, to make someone pregnant         |      Ignore at your own peril, Schuhficker        |
 | bekommen      | become        |    to receive   |   to begin to be         |      Mostly humourous when Germans fall foul, "Can I please become a Guinness?  "Better men than you have tried"       |
-| arm           | arm           |    deifnition   |   ideal         |      potato        |
+| arm           | arm           |    poor   |   the bit between your body and your hands         |      potato        |
 | Art           | art           |    deifnition   |   ideal         |      potato        |
 | Box           | box           |    deifnition   |   ideal         |      potato        |
 | brav          | brave         |    deifnition   |   ideal         |      potato        |

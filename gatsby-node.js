@@ -67,10 +67,10 @@ exports.createPages = ({ actions, graphql }) => {
 //        context: {
 //          tag,
 //        },
-      })
-    })
-  })
-}
+//      })
+//    })
+//  })
+//}
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions

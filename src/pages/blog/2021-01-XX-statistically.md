@@ -24,38 +24,29 @@ There's a word that you recognize, that doesn't immediately induce Duo-based PTS
 
 Obviously, the road ahead to die Zungenfertigkeit is fraught with danger, but you need to act quickly. What are the chances of each of the above cases? What are the odds?
 Here's a non-exhaustive look at cognates, false friends & similar words, bundled into some vaguely scientific-looking graphs to reassure you that this is trustworthy to some degree.
-<!---
-## false friends list
+
+## Select False Friends
 | German        | English       | German meaning  | English Meaning | Example of fallout |
 | ------------- |:-------------:| ---------------:|----------------:|-------------------:|
 | gift          | gift          |   poison        |   present       |      Walking into Douglas and asking for gift ideas ***will*** get you some odd looks        |
 | dick          | dick          |   thick    |   penis, Little Richard        |      Dickmilch, 'nuff said'       |
-| impregnieren  | impregnate    |    to proof, to coat   |   to proof, to coat, to make someone pregnant         |      Ignore at your own peril, Schuhficker        |
+| impregnieren  | impregnate    |    to waterproof, to coat   |   to waterproof, to coat, more often to make someone pregnant         |      Ignore at your own peril, Schuhficker        |
 | bekommen      | become        |    to receive   |   to begin to be         |      Mostly humourous when Germans fall foul, "Can I please become a Guinness?  "Better men than you have tried"       |
 | arm           | arm           |    poor   |   the bit between your body and your hands         |      potato        |
-| Art           | art           |    deifnition   |   ideal         |      potato        |
-| Box           | box           |    deifnition   |   ideal         |      potato        |
-| brav          | brave         |    deifnition   |   ideal         |      potato        |
-| Brief         | brief         |    deifnition   |   ideal         |      potato        |
-| breit         | bright        |    deifnition   |   ideal         |      potato        |
-| Kaution       | caution       |    deifnition   |   ideal         |      potato        |
-| Fabrik        | fabric        |    deifnition   |   ideal         |      potato        |
-| Fahrt         | fart          |    deifnition   |   ideal         |      potato        |
-| vor           | for           |    deifnition   |   ideal         |      potato        |
+| Box           | box           |    Speaker   |   a container that does **not** play music         |     Music may lift you up, but it's not going to help you move flat        |
+| Brief         | brief         |    a letter   |   short, temporary         |      Dear Sir / Madam, just don't.  |
+| breit         | bright        |    wide   |   light         |      potato        |
+| Kaution       | caution       |    deposit for a flat   |   warning         |      potato        |
+| Fabrik        | fabric        |    A factory   |   textile, material         |      potato        |
+| Fahrt         | fart          |    a drive, trip, ride   |   to break wind         |      My dad's favourite, difficult to keep a straight face on any road trip        |
+| vor           | for           |    in front of, before   |   ideal         |      potato        |
 | Handy         | handy         |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| note          | hose          |    deifnition   |   ideal         |      potato        |
-| prägnant          | hose          |    deifnition   |   ideal         |      potato        |
-| Rat         | hose          |    deifnition   |   ideal         |      potato        |
-| Rezept          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
-| hose          | hose          |    deifnition   |   ideal         |      potato        |
+| Hose          | hose          |    deifnition   |   ideal         |      potato        |
+| Note          | note          |    deifnition   |   ideal         |      potato        |
+| Rat         | rat          |    deifnition   |   ideal         |      potato        |
+| Rezept          | receipt          |    deifnition   |   ideal         |      potato        |
 
+<!---
 >
 https://www.englisch-hilfen.de/en/words/false_friends.htm
 https://www.fluentu.com/blog/german/false-friends-english-german/

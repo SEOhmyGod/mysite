@@ -35,16 +35,15 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | arm           | arm           |    poor   |   the bit between your body and your hands         |      potato        |
 | Box           | box           |    Speaker   |   a container that does **not** play music         |     Music may lift you up, but it's not going to help you move flat        |
 | Brief         | brief         |    a letter   |   short, temporary         |      Dear Sir / Madam, just don't.  |
-| breit         | bright        |    wide   |   light         |      potato        |
-| Kaution       | caution       |    deposit for a flat   |   warning         |      potato        |
-| Fabrik        | fabric        |    A factory   |   textile, material         |      potato        |
+| breit         | bright        |    wide   |   light, smart        |      Accidental fat jokes a plenty        |
+| Kaution       | caution       |    deposit for a flat   |   warning         |      Not every conversation is about renting, even in Berlin        |
+| Fabrik        | fabric        |    A factory   |   textile, material         |      Many will either be impressed or confused by what your clothes are apparently made of        |
 | Fahrt         | fart          |    a drive, trip, ride   |   to break wind         |      My dad's favourite, difficult to keep a straight face on any road trip        |
-| vor           | for           |    in front of, before   |   ideal         |      potato        |
-| Handy         | handy         |    deifnition   |   ideal         |      potato        |
-| Hose          | hose          |    deifnition   |   ideal         |      potato        |
-| Note          | note          |    deifnition   |   ideal         |      potato        |
-| Rat         | rat          |    deifnition   |   ideal         |      potato        |
-| Rezept          | receipt          |    deifnition   |   ideal         |      potato        |
+| Handy         | handy         |    Mobile phone   |   useful, at hand         |      When your Handy isn't handy, but it's still a Handy :/        |
+| Hose          | hose          |    Trousers   |  transporter of liquids        |      Just plain confusing. Also singular in German        |
+| Note          | note          |    Grade   |   a definite musical frequency, a short message         |      Extremely different in terms of importance, and extra confusing in music class        |
+| Rat         | rat          |    guidance, or advice   |   Plague, hairy, massive tail         |             |
+| Rezept          | receipt          |    Prescription   |   Proof of purchase         |      Honorary entry where the word is longer in English than in German        |
 
 <!---
 >

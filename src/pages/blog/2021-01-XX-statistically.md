@@ -12,7 +12,7 @@ featuredimage: /img/merkel_queen.jpeg
 ---
 
 >
-## So you're learning German {#intro}
+## So you're learning German
 
 Half way through an article, or in the middle of a conversation, patiently waiting for the verb to arrive at the end of a sentence (The quick brown fox over the lonely dog jumps, z.b.), and **blam:**  
 There's a word that you recognize, that doesn't immediately induce Duo-based PTSD. A word from a language you actually speak with confidence! There's at least three ways it can go down from here:

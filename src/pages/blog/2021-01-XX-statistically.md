@@ -47,16 +47,12 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 
 <!---
 >
-https://www.englisch-hilfen.de/en/words/false_friends.htm
-https://www.fluentu.com/blog/german/false-friends-english-german/
-https://www.thelocal.de/20180312/the-top-10-false-friends-between-german-and-english
+
  gift (das gift?)
 become
 >
 ## Cognates (True Friends who help you hide ze Körper)
-https://www.englisch-hilfen.de/en/words/true_friends.htm
-https://www.germanlw.com/same-words-in-german-and-english/
-https://learn-german-easily.com/same-meaning-in-german-and-english
+
 everything latin, ever
 | German        | English       | German meaning  | English Meaning | Example of fallout |
 | ------------- |:-------------:| ---------------:|----------------:|-------------------:|
@@ -83,9 +79,14 @@ anedocte anesthesia
 >
 ## Summation & Conclusion
 summed table
-terrible graph
+terrible graph ![santaeatyourheartout](/img/graph.jpg)
 
 suggestions of missing words to increase exhaustiveness please tweet @Difeorleth
-
 -->
-![santaeatyourheartout](/img/graph.jpg)
+## Sources
+[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/false_friends.htm)
+[Fleuntu](https://www.fluentu.com/blog/german/false-friends-english-german/)
+[The Local](https://www.thelocal.de/20180312/the-top-10-false-friends-between-german-and-english)
+[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/true_friends.htm)
+[German LW](https://www.germanlw.com/same-words-in-german-and-english/)
+[Learn German Easily](https://learn-german-easily.com/same-meaning-in-german-and-english)

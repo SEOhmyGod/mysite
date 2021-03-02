@@ -26,7 +26,6 @@ Obviously, the road ahead to die Zungenfertigkeit is fraught with danger, but yo
 Here's a non-exhaustive look at cognates, false friends & similar words, bundled into some vaguely scientific-looking graphs to reassure you that this is trustworthy to some degree.
 
 ## Select False Friends
-{:.table}
 | German        | English       | German meaning  | English Meaning | Example of fallout |
 | ------------- |:-------------:| ---------------:|----------------:|-------------------:|
 | gift          | gift          |   poison        |   present       |      Walking into Douglas and asking for gift ideas ***will*** get you some odd looks        |

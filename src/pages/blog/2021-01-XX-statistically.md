@@ -43,7 +43,7 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | Hose          | hose          |    Trousers   |  transporter of liquids        |      Just plain confusing. Also singular in German        |
 | Note          | note          |    Grade   |   a definite musical frequency, a short message         |      Extremely different in terms of importance, and extra confusing in music class        |
 | Rat         | rat          |    guidance, or advice   |   Plague, hairy, massive tail         |             |
-| Rezept          | receipt          |    Prescription   |   Proof of purchase         |      Honorary entry where the word is longer in English than in German        | {.table}
+| Rezept          | receipt          |    Prescription   |   Proof of purchase         |      Honorary entry where the word is longer in English than in German        | {.table-stylish}
 <!---
 >
 

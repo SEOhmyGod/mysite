@@ -83,9 +83,9 @@ terrible graph ![santaeatyourheartout](/img/graph.jpg)
 suggestions of missing words to increase exhaustiveness please tweet @Difeorleth
 -->
 ## Sources
--[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/false_friends.htm)
--[Fleuntu](https://www.fluentu.com/blog/german/false-friends-english-german/)
--[The Local](https://www.thelocal.de/20180312/the-top-10-false-friends-between-german-and-english)
--[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/true_friends.htm)
--[German LW](https://www.germanlw.com/same-words-in-german-and-english/)
--[Learn German Easily](https://learn-german-easily.com/same-meaning-in-german-and-english)
+-[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/false_friends.htm)  
+-[Fleuntu](https://www.fluentu.com/blog/german/false-friends-english-german/)  
+-[The Local](https://www.thelocal.de/20180312/the-top-10-false-friends-between-german-and-english)  
+-[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/true_friends.htm)  
+-[German LW](https://www.germanlw.com/same-words-in-german-and-english/)  
+-[Learn German Easily](https://learn-german-easily.com/same-meaning-in-german-and-english)  

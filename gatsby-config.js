@@ -83,6 +83,16 @@ twitter:image="/img/dumpsterfire.jpg",
               destinationDir: 'static',
             },
           },
+          {
+          resolve: `gatsby-remark-classes`,
+          options: {
+            classMap: {
+              "heading[depth=1]": "text-2xl",
+              "heading[depth=2]": "text-xl",
+              "paragraph": "text-base"
+            }
+          }
+        },
         ],
       },
     },

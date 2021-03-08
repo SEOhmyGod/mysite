@@ -27,7 +27,6 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 
 ## Select False Friends
 
-<div class="divtable" markdown="1">
 
 | German | English | German meaning | English Meaning | Example of fallout |
 |:-------------:|:-------------:|:---------------:|:----------------:|:-------------------:|
@@ -48,7 +47,6 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | Rat | rat | guidance, or advice | Plague, hairy, massive tail | Germany is not a real life version of Ratatouille |
 | Rezept | receipt | Prescription | Proof of purchase | Honorary entry where the word is longer in English than in German |
 
-</div>
 <!---
 >
 

@@ -27,7 +27,7 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 
 ## Select False Friends
 | German | English | German meaning | English Meaning | Example of fallout |
-| ------------- |:-------------:| ---------------:|----------------:|-------------------:|
+|:-------------:|:-------------:|:---------------:|:----------------:|:-------------------:|
 | gift | gift | poison | present | Walking into Douglas and asking for gift ideas ***will*** get you some odd looks |
 | dick | dick | thick | penis, Little Richard | Dickmilch, 'nuff said' |
 | impregnieren | impregnate | to waterproof, to coat | to waterproof, to coat, more often to make someone pregnant | Ignore at your own peril, Schuhficker |
@@ -54,7 +54,7 @@ become
 
 everything latin, ever
 | German | English | German meaning | English Meaning | Example of fallout |
-| ------------- |:-------------:| ---------------:|----------------:|-------------------:|
+|:-------------:|:-------------:|:---------------:|:----------------:|:-------------------:|
 | gift | gift | definition | potato | potato |
 | dick | dick | definition | questo | potato |
 | impregnieren | impregnate | deifnition | ideal | potato |

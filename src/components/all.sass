@@ -30,7 +30,7 @@ $black: #000000
     margin-bottom: 1.5rem
     margin-top: 0
 table
-    color: $blue-bits
+    color: black
     background-color: white
     border-color: black
     border-style: solid
@@ -44,9 +44,10 @@ table
 
     thead
       th
-        color: white
-        background-color: black
+        color: black
+        background-color: $blue-bits
         font-weight: bold
+        border-radius: 5px
         font-size: 0.8em
         padding: 5px 10px
         vertical-align: bottom
@@ -61,8 +62,8 @@ table
     tr
       border-bottom: 1px solid
 
-    tbody tr:nth-of-type(even)
-      background-color: #f3f3f3
+    tr:nth-of-type(even)
+      background-color: grey
 
 
 // Helper Classes

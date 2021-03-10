@@ -29,36 +29,38 @@ $black: #000000
     padding: 0 2rem 1rem 0
     margin-bottom: 1.5rem
     margin-top: 0
+
 table
-    color: black
-    background-color: white
-    border-color: black
-    border-style: solid
-    border-width: 0 1px 1px 1px
-    border-radius: 5px
     border-collapse: collapse
-    border-spacing: 0
-    display: block
-    overflow: auto
-    width: 100%
+    margin: 25px 0
+    font-size: 0.9em
+    font-family: sans-serif
+    min-width: 400px
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15)
 
-    thead
-      th
-        color: white
-        background-color: $blue-bits
-        font-weight: bold
-        font-size: 0.8em
-        padding: 5px 10px
-        vertical-align: bottom
-
-        th:first-child
-          border-top-left-radius: 5px
-
-        th:last-child
-          border-top-right-radius: 5px
-
+  thead
     tr
-      border-bottom: 1px solid
+     background-color: #009879
+     color: #ffffff
+     text-align: left
+
+  td,th
+    padding: 12px 15px
+
+  tbody tr
+    border-bottom: 1px solid #dddddd
+
+
+  tbody tr:nth-of-type(even)
+    background-color: #f3f3f3
+
+
+  tbody tr:last-of-type
+    border-bottom: 2px solid #009879
+
+  tbody tr.active-row
+    font-weight: bold
+    color: #009879
 
 
 // Helper Classes

@@ -36,9 +36,6 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Helmet>
-    {noIndex && <meta name="robots" content="noindex" />}
-    </Helmet>
     <Layout>
       <AboutPageTemplate
         contentComponent={HTMLContent}

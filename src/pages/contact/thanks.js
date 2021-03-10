@@ -4,9 +4,6 @@ import { Helmet } from 'react-helmet'
 
 export default () => (
   <Layout>
-  <Helmet
-  {noIndex && <meta name="robots" content="noindex" />}
-  />
     <section className="section">
       <div className="container">
         <div className="content">

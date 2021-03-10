@@ -44,9 +44,6 @@ export default class Contact extends React.Component {
   render() {
     return (
       <Layout>
-      <Helmet
-      {noIndex && <meta name="robots" content="noindex" />}
-      />
         <section className="section">
           <div className="container">
             <div className="content">

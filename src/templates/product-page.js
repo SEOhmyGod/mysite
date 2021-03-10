@@ -133,9 +133,6 @@ const ProductPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Helmet>
-    {noIndex && <meta name="robots" content="noindex" />}
-    </Helmet>
     <Layout>
       <ProductPageTemplate
         image={frontmatter.image}

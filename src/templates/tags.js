@@ -21,9 +21,6 @@ class TagRoute extends React.Component {
     } tagged with “${tag}”`
 
     return (
-      <Helmet>
-      {noIndex && <meta name="robots" content="noindex" />}
-      </Helmet>
       <Layout>
         <section className="section">
           <div className="container content">

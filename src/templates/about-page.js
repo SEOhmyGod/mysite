@@ -10,7 +10,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 
   return (
     <Helmet
-    <meta name="robots" content="noindex"/>
+    {noIndex && <meta name="robots" content="noindex" />}
     />
     <section className="section section--gradient">
       <div className="container">

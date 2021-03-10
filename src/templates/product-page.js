@@ -20,7 +20,7 @@ export const ProductPageTemplate = ({
   pricing,
 }) => (
   <Helmet
-  <meta name="robots" content="noindex"/>
+  {noIndex && <meta name="robots" content="noindex" />}
   />
   <div className="content">
     <div

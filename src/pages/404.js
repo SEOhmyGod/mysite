@@ -5,7 +5,7 @@ import { Helmet } from 'react-helmet'
 const NotFoundPage = () => (
   <Layout>
   <Helmet
-  <meta name="robots" content="noindex"/>
+  {noIndex && <meta name="robots" content="noindex" />}
   />
     <div>
       <h1>NOT FOUND</h1>

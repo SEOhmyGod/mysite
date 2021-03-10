@@ -27,7 +27,6 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 
 ## Select False Friends
 
-
 | German | English | German meaning | English Meaning | Example of fallout |
 |:-------------:|:-------------:|:---------------:|:----------------:|:-------------------:|
 | gift | gift | poison | present | Walking into Douglas and asking for gift ideas ***will*** get you some odd looks |
@@ -47,33 +46,29 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | Rat | rat | guidance, or advice | Plague, hairy, massive tail | Germany is not a real life version of Ratatouille |
 | Rezept | receipt | Prescription | Proof of purchase | Honorary entry where the word is longer in English than in German |
 
+
+
+## Select Cognates (True Friends who help you hide ze Körper)
+
 <!---
->
-
- gift (das gift?)
-become
->
-## Cognates (True Friends who help you hide ze Körper)
-
-everything latin, ever
-| German | English | German meaning | English Meaning | Example of fallout |
-|:-------------:|:-------------:|:---------------:|:----------------:|:-------------------:|
-| gift | gift | definition | potato | potato |
-| dick | dick | definition | questo | potato |
-| impregnieren | impregnate | deifnition | ideal | potato |
-| bekommen | become | deifnition | ideal | potato |
-| arm | arm | deifnition | ideal | potato |
-| Art | art | deifnition | ideal | potato |
-| Box | box | deifnition | ideal | potato |
-| brav | brave | deifnition | ideal | potato |
-| Brief | brief | deifnition | ideal | potato |
-| breit | bright | deifnition | ideal | potato |
-| Kaution | caution | deifnition | ideal | potato |
-| Fabrik | fabric | deifnition | ideal | potato |
-| Fahrt | fart | deifnition | ideal | potato |
-| vor | for | deifnition | ideal | potato |
-| Handy | handy | deifnition | ideal | potato |
-| hose | hose | deifnition | ideal | potato |
+| German | English | Meaning | Example of awesomeness |
+|:-------------:|:-------------:|:---------------:|:----------------:|
+| Alphabet | alphabet | the very building blocks of words | helpful to be able to fall back on |
+| April, August | April, August | Basically all the months of the year | At least you'll always be able to read a calendar |
+| Apfel | apple | fruit, overly successful tech company | Keep the doctor at bay and your account empty in either language |
+| Bank | bank | place that keeps more of your money than you do | Financial matters are safe |
+| bitter | bitter | sharp taste, disappointing | It'll help you adequately describe your failings and how you feel about them |
+| blind | blind | unable to see | Handy to describe yourself after missing something particularly obvious, albeit rather ableist |
+| Box | box | deifnition | ideal |
+| brav | brave | deifnition | ideal |
+| Brief | brief | deifnition | ideal |
+| breit | bright | deifnition | ideal |
+| Kaution | caution | deifnition | ideal |
+| Fabrik | fabric | deifnition | ideal |
+| Fahrt | fart | deifnition | ideal |
+| vor | for | deifnition | ideal |
+| Handy | handy | deifnition | ideal |
+| hose | hose | deifnition | ideal |
 >
 ## Edge cases / weirdness
 comments, like different pronunciation despite being same word/spelling

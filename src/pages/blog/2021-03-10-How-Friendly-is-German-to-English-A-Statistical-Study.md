@@ -69,8 +69,8 @@ There are a few cases that you can rely on in principle, but even if the word do
 
 
 ## Summation & Conclusion
-So how does German fare? Will it get Kohle or Kohle for Christmas?
- ![50 50 graph](/img/santaeatyourheartout.jpg "santaeatyourheatout")
+So how does German fare? Will it get Kohle or Kohle for Christmas?  
+ ![50 50 graph](/img/santaeatyourheartout.jpg "santaeatyourheatout")  
  In the end, it's the same as any other language compared to your own. Some similarities are helpful, others aren't. What matters is practice, and being able to enjoy (and learn from) the mistakes you'll make along the way. [Cue Hallmark schmalzy music]
 if you're feeling disappointed by this on-the-fence result, it Zauns about right to me :)
 

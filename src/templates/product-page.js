@@ -18,6 +18,9 @@ export const ProductPageTemplate = ({
   fullImage,
   pricing,
 }) => (
+  <Helmet 
+  <meta name="robots" content="noindex"/>
+  />
   <div className="content">
     <div
       className="full-width-image-container margin-top-0"

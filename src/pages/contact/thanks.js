@@ -3,6 +3,9 @@ import Layout from '../../components/Layout'
 
 export default () => (
   <Layout>
+  <Helmet
+  <meta name="robots" content="noindex"/>
+  />
     <section className="section">
       <div className="container">
         <div className="content">

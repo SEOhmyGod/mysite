@@ -8,6 +8,9 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
+    <Helmet 
+    <meta name="robots" content="noindex"/>
+    />
     <section className="section section--gradient">
       <div className="container">
         <div className="columns">

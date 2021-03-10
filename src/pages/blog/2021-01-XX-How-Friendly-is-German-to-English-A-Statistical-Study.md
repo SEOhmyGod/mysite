@@ -20,7 +20,7 @@ There's a word that you recognize, that doesn't immediately induce Duo-based PTS
 - this word has the exact opposite meaning that it has in English, and will sabotage your confidence and credibility for years to come.
 - this word has the exact same meaning, but is pronounced so differently for a while you wonder if you've forgotten how to speak entirely, until eventually it clicks ("Ahhh, Ma-te-ri-**al**!" )
 
-![merkelwürdig](/img/merkel_queen.jpeg)
+![merkelwürdig](/img/merkel_queen.jpeg "Two heads of state conversing, probably in German")
 
 Obviously, the road ahead to die Zungenfertigkeit is fraught with danger, but you need to act quickly. What are the chances of each of the above cases? What are the odds?
 Here's a non-exhaustive look at cognates, false friends & similar words, bundled into some vaguely scientific-looking graphs to reassure you that this is trustworthy to some degree.

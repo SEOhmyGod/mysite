@@ -30,7 +30,7 @@ twitter:image="/img/dumpsterfire.jpg",
     resolve: `gatsby-plugin-advanced-sitemap`,
     options: {
       output: `/sitemap.xml`,
-      exclude: [/(404|products|contact|tags|dev)*/,],
+      exclude: [/(404|products|contact|tags|dev)/,],
     },
   },
   {

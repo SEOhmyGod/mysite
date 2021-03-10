@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Layout from '../../components/Layout'
+import { Helmet } from 'react-helmet'
 
 export default class Index extends React.Component {
   render() {

@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
+import { Helmet } from 'react-helmet'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const ProductPageTemplate = ({
@@ -18,7 +19,7 @@ export const ProductPageTemplate = ({
   fullImage,
   pricing,
 }) => (
-  <Helmet 
+  <Helmet
   <meta name="robots" content="noindex"/>
   />
   <div className="content">

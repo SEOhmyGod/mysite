@@ -107,7 +107,7 @@ twitter:image="/img/dumpsterfire.jpg",
       options: {
         develop: true, // Activates purging in npm run develop
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
-        whitelist:['table','thead','th']
+        whitelist:['table','thead','th','tr']
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array

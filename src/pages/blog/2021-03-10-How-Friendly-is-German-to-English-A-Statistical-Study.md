@@ -37,13 +37,9 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | Box | box | Speaker | a container that does **not** play music | Music may lift you up, but it's not going to help you move flat |
 | Brief | brief | a letter | short, temporary | Dear Sir / Madam, just don't. |
 | breit | bright | wide | light, smart | Accidental fat jokes a plenty |
-| Kaution | caution | deposit for a flat | warning | Not every conversation is about renting, even in Berlin |
-| Fabrik | fabric | A factory | textile, material | Many will either be impressed or confused by what your clothes are apparently made of |
 | Fahrt | fart | a drive, trip, ride | to break wind | My dad's favourite, difficult to keep a straight face on any road trip |
 | Handy | handy | Mobile phone | useful, at hand | When your Handy isn't handy, but it's still a Handy :/ |
 | Hose | hose | Trousers | transporter of liquids | Just plain confusing. Also singular in German |
-| Note | note | Grade | a definite musical frequency, a short message | Extremely different in terms of importance, and extra confusing in music class |
-| Rat | rat | guidance, or advice | Plague, hairy, massive tail | Germany is not a real life version of Ratatouille |
 | Rezept | receipt | Prescription | Proof of purchase | Honorary entry where the word is longer in English than in German |
 
 
@@ -59,28 +55,26 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | Bank | bank | place that keeps more of your money than you do | Financial matters are safe |
 | bitter | bitter | sharp taste, disappointing | It'll help you adequately describe your failings and how you feel about them |
 | blind | blind | unable to see | Handy to describe yourself after missing something particularly obvious, albeit rather ableist |
-<!---
-| Box | box | deifnition | ideal |
-| brav | brave | deifnition | ideal |
-| Brief | brief | deifnition | ideal |
-| breit | bright | deifnition | ideal |
-| Kaution | caution | deifnition | ideal |
-| Fabrik | fabric | deifnition | ideal |
-| Fahrt | fart | deifnition | ideal |
-| vor | for | deifnition | ideal |
-| Handy | handy | deifnition | ideal |
-| hose | hose | deifnition | ideal |
->
-## Edge cases / weirdness
-comments, like different pronunciation despite being same word/spelling
-anedocte anesthesia
->
-## Summation & Conclusion
-summed table
-terrible graph ![santaeatyourheartout](/img/graph.jpg)
+| bringen | bring | to take with to a place | it'll always be with you, wherever you go |
+| Butter | butter | fatty spread that makes everything taste better | Combined with Toast, you're sorted for breakfast |
+| Drama | drama | theatre, excessive emotion for the situation | This'll keep you going till curtain call |
+| Finger | finger | digit on the hand | You can't deny I've got a point here |
+| Gas | gas | a state of matter of extremely low density and high volume | Not used as frequently in other contexts compared to US/UK |
+| plus | plus | indicator of positivity, mathematical sign for addition | a value-add to your quill |
+| trink |  drink | to imbibe a liquid, probably alcohol | Imbibe enough, and it won't even matter if this word is your friend or not |
 
-suggestions of missing words to increase exhaustiveness please tweet @Difeorleth
--->
+
+## Edge cases / Weirdness
+There are a few cases that you can rely on in principle, but even if the word does indeed retain it's meaning across the language divide, it's pronunciation will likely not have survived the crossing. Anything that stems from Latin will be great, as soon as you learn how to say it properly. Examples such as "Anasthesia", "Anasthesiologist", "Anasthetic", or any medical term will take some getting used to in order to use effectively, but once you've got it, you can be sure you'll have issues saying it in English forever more.
+
+
+## Summation & Conclusion
+So how does German fare? Will it get Kohle or Kohle for Christmas?
+ ![50 50 graph](/img/santaeatyourheartout.jpg "santaeatyourheatout")
+ In the end, it's the same as any other language compared to your own. Some similarities are helpful, others aren't. What matters is practice, and being able to enjoy (and learn from) the mistakes you'll make along the way. [Cue Hallmark schmalzy music]
+if you're feeling disappointed by this on-the-fence result, it Zauns about right to me :)
+
+
 ## Sources
 -[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/false_friends.htm)  
 -[Fleuntu](https://www.fluentu.com/blog/german/false-friends-english-german/)  

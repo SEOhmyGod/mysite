@@ -27,7 +27,7 @@ twitter:image="/img/dumpsterfire.jpg",
     `gatsby-plugin-robots-txt`,
     `gatsby-plugin-react-helmet`,
     {
-    resolve: `gatsby-plugin-sitemap`,
+    resolve: `gatsby-plugin-advanced-sitemap`,
     options: {
       output: `/sitemap.xml`,
       exclude: [`/product/*`, `/contact/*`,`/tags/*`,`/404*`],

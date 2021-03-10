@@ -50,7 +50,7 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 
 ## Select Cognates (True Friends who help you hide ze Körper)
 
-<!---
+
 | German | English | Meaning | Example of awesomeness |
 |:-------------:|:-------------:|:---------------:|:----------------:|
 | Alphabet | alphabet | the very building blocks of words | helpful to be able to fall back on |
@@ -59,6 +59,7 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | Bank | bank | place that keeps more of your money than you do | Financial matters are safe |
 | bitter | bitter | sharp taste, disappointing | It'll help you adequately describe your failings and how you feel about them |
 | blind | blind | unable to see | Handy to describe yourself after missing something particularly obvious, albeit rather ableist |
+<!---
 | Box | box | deifnition | ideal |
 | brav | brave | deifnition | ideal |
 | Brief | brief | deifnition | ideal |

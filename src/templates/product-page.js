@@ -19,9 +19,6 @@ export const ProductPageTemplate = ({
   fullImage,
   pricing,
 }) => (
-  <Helmet
-  {noIndex && <meta name="robots" content="noindex" />}
-  />
   <div className="content">
     <div
       className="full-width-image-container margin-top-0"
@@ -136,6 +133,9 @@ const ProductPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
+    <Helmet>
+    {noIndex && <meta name="robots" content="noindex" />}
+    </Helmet>
     <Layout>
       <ProductPageTemplate
         image={frontmatter.image}

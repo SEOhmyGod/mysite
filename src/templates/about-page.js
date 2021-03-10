@@ -9,9 +9,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <Helmet
-    {noIndex && <meta name="robots" content="noindex" />}
-    />
     <section className="section section--gradient">
       <div className="container">
         <div className="columns">
@@ -39,6 +36,9 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
+    <Helmet>
+    {noIndex && <meta name="robots" content="noindex" />}
+    </Helmet>
     <Layout>
       <AboutPageTemplate
         contentComponent={HTMLContent}

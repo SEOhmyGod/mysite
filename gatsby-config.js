@@ -33,7 +33,7 @@ twitter:image="/img/dumpsterfire.jpg",
             policy: [{ userAgent: '*', disallow: ['/'] }]
           },
           production: {
-            policy: [{ userAgent: '*', allow: '/',disallow['/tags','/contact/'] }]
+            policy: [{ userAgent: '*', allow: '/',disallow: ['/tags','/contact/'] }]
           }
         }
       }

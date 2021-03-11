@@ -62,18 +62,12 @@ twitter:image="/img/dumpsterfire.jpg",
         name: 'images',
       },
     },
-    'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          {
-            resolve: 'gatsby-remark-relative-images',
-            options: {
-              name: 'uploads',
-            },
-          },
           {
             resolve: 'gatsby-remark-images',
             options: {
@@ -88,6 +82,12 @@ twitter:image="/img/dumpsterfire.jpg",
               tracedSVG: true,
 
             },
+          {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads',
+            },
+          },
           },
           {
             resolve: 'gatsby-remark-copy-linked-files',

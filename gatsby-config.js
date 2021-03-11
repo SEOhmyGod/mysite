@@ -63,32 +63,28 @@ twitter:image="/img/dumpsterfire.jpg",
       },
     },
     'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-images',
-            options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
-              maxWidth: 1024,
-              loading: 'lazy',
-              withWebP: true,
-              withAvif: true,
-              quality: 50,
-              tracedSVG: true,
-
-            },
-          {
-            resolve: 'gatsby-remark-relative-images',
-            options: {
-              name: 'uploads',
-            },
+    `gatsby-plugin-sharp`,
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        {
+          resolve: `gatsby-remark-images`,
+          options: {
+            // It's important to specify the maxWidth (in pixels) of
+            // the content container as this plugin uses this as the
+            // base for generating different widths of each image.
+            maxWidth: 1024,
+            loading: 'lazy',
+            withWebP: true,
+            withAvif: true,
+            quality: 50,
+            tracedSVG: true,
           },
-          },
+        },
+      ],
+    },
+  },
           {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {

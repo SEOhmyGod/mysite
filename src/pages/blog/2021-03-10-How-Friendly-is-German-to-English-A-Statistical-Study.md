@@ -65,7 +65,7 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 
 
 ## Edge cases / Weirdness
-There are a few cases that you can rely on in principle, but even if the word does indeed retain it's meaning across the language divide, it's pronunciation will likely not have survived the crossing. Anything that stems from Latin will be great, as soon as you learn how to say it properly. Examples such as "Anasthesia", "Anasthesiologist", "Anasthetic", or any medical term will take some getting used to in order to use effectively, but once you've got it, you can be sure you'll have issues saying it in English forever more.
+There are a few cases that you can rely on in principle, but even if the word does indeed retain it's meaning across the language divide, it's pronunciation will likely not have survived the crossing. Anything that stems from Latin will be great, as soon as you learn how to say it properly. Examples such as "Anesthesia", "Anesthesiologist", "Anasthetic", or any medical term will take some getting used to in order to use effectively, but once you've got it, you can be sure you'll have issues saying it in English forever more.
 
 
 ## Summation & Conclusion

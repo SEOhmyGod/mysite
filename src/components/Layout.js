@@ -4,7 +4,7 @@ import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
-import SEO from './SEO'
+import SEO from '../components/SEO'
 import { withPrefix } from 'gatsby'
 
 const TemplateWrapper = ({ children }) => {

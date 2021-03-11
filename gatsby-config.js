@@ -101,9 +101,6 @@ twitter:image="/img/dumpsterfire.jpg",
             }
           }
         },
-        ],
-      },
-    },
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {

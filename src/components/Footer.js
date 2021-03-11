@@ -12,6 +12,7 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-primary has-text-primary-invite">
 
+      
       <div className="content has-text-centered has-background-primary has-text-primary-invert">
         <div className="container has-background-primary has-text-primary-invert">
           <div style={{ maxWidth: '200vw' }} className="columns">
@@ -60,7 +61,9 @@ const Footer = class extends React.Component {
               <div className="column is-4">
               <section>
                 <div className="content has-text-centered">
-      <a title="twitter" href="https://twitter.com/Difeorleth">
+                  <ul className="menu-list">
+                  <li>
+                    <a title="twitter" href="https://twitter.com/Difeorleth">
         <img
           className="fas fa-lg"
           src={twitter}
@@ -68,7 +71,9 @@ const Footer = class extends React.Component {
           style={{ width: '1em', height: '1em' }}
         />
       </a>
-      <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
+                  </li>
+                  <li>
+                    <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
         <img
           className="fas fa-lg"
           src="/img/RGfavicon-32x32.png"
@@ -76,6 +81,10 @@ const Footer = class extends React.Component {
          style={{ width: '1em', height: '1em',color: 'rgb(242,242,242)' }}
         />
       </a>
+                  </li>
+                </ul>
+      
+      
       </div>
               </section>
             </div>

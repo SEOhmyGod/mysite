@@ -2,9 +2,9 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
+//import SEO from '../components/SEO'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
-//import SEO from '../components/SEO'
 import { withPrefix } from 'gatsby'
 
 const TemplateWrapper = ({ children }) => {

@@ -24,7 +24,20 @@ twitter:image="/img/dumpsterfire.jpg",
 
   },
   plugins: [
-    `gatsby-plugin-robots-txt`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        resolveEnv: () => process.env.GATSBY_ENV,
+        env: {
+          development: {
+            policy: [{ userAgent: '*', disallow: ['/'] }]
+          },
+          production: {
+            policy: [{ userAgent: '*', allow: '/',disallow['/tags','/contact/'] }]
+          }
+        }
+      }
+    },
     `gatsby-plugin-react-helmet`,
     {
     resolve: `gatsby-plugin-advanced-sitemap`,

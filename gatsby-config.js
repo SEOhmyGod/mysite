@@ -30,7 +30,7 @@ twitter:image="/img/dumpsterfire.jpg",
         resolveEnv: () => process.env.GATSBY_ENV,
         env: {
           development: {
-            policy: [{ userAgent: '*', allow: '/' }]
+            policy: [{ userAgent: '*', allow: '/',disallow: ['/tags','/contact/'] }]
           },
           production: {
             policy: [{ userAgent: '*', allow: '/',disallow: ['/tags','/contact/'] }]

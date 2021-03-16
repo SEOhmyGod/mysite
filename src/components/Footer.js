@@ -13,7 +13,6 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-primary has-text-primary-invite">
 
-
       <div className="content has-text-centered has-background-primary has-text-primary-invert">
         <div className="container has-background-primary has-text-primary-invert">
           <div style={{ maxWidth: '200vw' }} className="columns">
@@ -26,22 +25,6 @@ const Footer = class extends React.Component {
                     </Link>
                   </li>
                   <li>
-                    <a
-                      className="navbar-item"
-                      href="/admin/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Admin
-                    </a>
-                  </li>
-                </ul>
-              </section>
-            </div>
-            <div className="column is-4">
-              <section>
-                <ul className="menu-list">
-                  <li>
                     <Link className="navbar-item" to="/blog">
                       Blog
                     </Link>
@@ -50,6 +33,16 @@ const Footer = class extends React.Component {
                     <Link className="navbar-item" to="/contact">
                       Contact
                     </Link>
+                  </li>
+                  <li>
+                    <a
+                      className="navbar-item"
+                      href="/admin/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Admin
+                    </a>
                   </li>
                 </ul>
               </section>

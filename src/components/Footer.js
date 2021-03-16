@@ -12,7 +12,7 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-primary has-text-primary-invite">
 
-      
+
       <div className="content has-text-centered has-background-primary has-text-primary-invert">
         <div className="container has-background-primary has-text-primary-invert">
           <div style={{ maxWidth: '200vw' }} className="columns">
@@ -73,6 +73,16 @@ const Footer = class extends React.Component {
       </a>
                   </li>
                   <li>
+                    <a title="linkedin" href="https://www.linkedin.com/in/tom-boyle-92345a17">
+        <img
+          className="fas fa-lg"
+          src={linkedin}
+          alt="Thomas Boyle"
+          style={{ width: '1em', height: '1em' }}
+        />
+      </a>
+                  </li>
+                  <li>
                     <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
         <img
           className="fas fa-lg"
@@ -83,8 +93,8 @@ const Footer = class extends React.Component {
       </a>
                   </li>
                 </ul>
-      
-      
+
+
       </div>
               </section>
             </div>

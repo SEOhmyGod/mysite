@@ -12,81 +12,33 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-primary has-text-primary-invite">
-
-      <div className="content has-text-centered has-background-primary has-text-primary-invert">
-        <div className="container has-background-primary has-text-primary-invert">
-          <div style={{ maxWidth: '200vw' }} className="columns">
-            <div className="column is-4">
-              <section className="menu">
-                <ul className="menu-list">
-                  <li>
-                    <Link className="navbar-item" to="/">
-                      About
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="navbar-item" to="/blog">
-                      Blog
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="navbar-item" to="/contact">
-                      Contact
-                    </Link>
-                  </li>
-                  <li>
-                    <a
-                      className="navbar-item"
-                      href="/admin/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Admin
-                    </a>
-                  </li>
-                </ul>
-              </section>
-            </div>
-              <div className="column is-4">
-              <section>
-                <div className="content has-text-centered">
-                  <ul className="menu-list">
-                  <li>
-                    <a title="twitter" href="https://twitter.com/Difeorleth">
-        <img
-          className="fas fa-lg"
-          src={twitter}
-          alt="Difeorleth"
-          style={{ width: '1em', height: '1em' }}
-        />
-      </a>
-                  </li>
-                  <li>
-                    <a title="linkedin" href="https://www.linkedin.com/in/tom-boyle-92345a17">
-        <img
-          className="fas fa-lg"
-          src={linkedin}
-          alt="Thomas Boyle"
-          style={{ width: '1em', height: '1em' }}
-        />
-      </a>
-                  </li>
-                  <li>
-                    <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
-        <img
-          className="fas fa-lg"
-          src="/img/RGfavicon-32x32.png"
-          alt="Thomas Boyle"
-         style={{ width: '1em', height: '1em',color: 'rgb(242,242,242)' }}
-        />
-      </a>
-                  </li>
-                </ul>
-
-
-      </div>
-              </section>
-            </div>
+        <div className="content has-text-centered has-background-primary has-text-primary-invert">
+          <div className="container has-background-primary has-text-primary-invert">
+            <div className="content has-text-centered">
+              <a title="twitter" href="https://twitter.com/Difeorleth">
+                <img
+                  className="fas fa-lg"
+                  src={twitter}
+                  alt="Difeorleth"
+                  style={{ width: '1em', height: '1em' }}
+                />
+              </a>
+              <a title="linkedin" href="https://www.linkedin.com/in/tom-boyle-92345a17">
+                <img
+                  className="fas fa-lg"
+                  src={linkedin}
+                  alt="Thomas Boyle"
+                  style={{ width: '1em', height: '1em' }}
+                />
+              </a>
+              <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
+                <img
+                  className="fas fa-lg"
+                  src="/img/RGfavicon-32x32.png"
+                  alt="Thomas Boyle"
+                 style={{ width: '1em', height: '1em',color: 'rgb(242,242,242)' }}
+                />
+              </a>
           </div>
         </div>
       </div>

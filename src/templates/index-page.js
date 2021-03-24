@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import dumpsterfiregif from '../static/img/dumpsterfiregif.gif' static\img\dumpsterfiregif.gif
+import dumpsterfiregif from '../static/img/dumpsterfiregif.gif' 
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 

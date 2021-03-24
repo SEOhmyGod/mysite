@@ -4,7 +4,7 @@ title: "Hey Ho, Let's do SEO"
 date: 2021-03-01T15:04:10.000Z
 featuredpost: true
 description: Motivations and Aims; Why this page exists
-featuredimage: /gifs/jazzhands.gif
+featuredimage: /img/dumpsterfire.jpg
 ---
 
 ### Better Late Than Never...

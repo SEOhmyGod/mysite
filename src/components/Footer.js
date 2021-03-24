@@ -12,7 +12,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-primary has-text-primary-invite">
-        <div className="content has-text-centered inRow">
+        <div className="content has-text-centered inColumn">
           <a title="twitter" href="https://twitter.com/Difeorleth">
             <img
               className="fas fa-lg"

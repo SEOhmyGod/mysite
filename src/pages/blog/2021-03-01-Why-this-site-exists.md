@@ -15,3 +15,5 @@ I've been in 'doing' SEO for coming on 4 years now, and I've been extremely luck
 I doubt I'll ever reach quite the level of tech SEO experiments or tooling of some of the fantastic people in the community out there, but I hope to test out some hypotheses and cut my teeth in *actual coding* to gain a practical perspective of the work I organize daily.
 
 Regardless, I'll be posting a few results and potentially host some non-SEO tools here. There will also likely be some more miscellaneous posts that don't fit and will likely tank my topical relevance, but oh well. It is what it is.
+
+![giffy](/gifs/dumpsterfiregif.gif "Hunk a hunk a Burnin Love")

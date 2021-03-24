@@ -12,7 +12,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-primary has-text-primary-invite">
-        <div className="content has-text-centered inColumn">
+        <div className="content has-text-centered">
           <a title="twitter" href="https://twitter.com/Difeorleth">
             <img
               className="fas fa-lg"
@@ -21,6 +21,7 @@ const Footer = class extends React.Component {
               style={{ width: '1em', height: '1em' }}
             />
           </a>
+          <div></div>
           <a title="linkedin" href="https://www.linkedin.com/in/tom-boyle-92345a17">
             <img
               className="fas fa-lg"
@@ -29,6 +30,7 @@ const Footer = class extends React.Component {
               style={{ width: '1em', height: '1em' }}
             />
           </a>
+          <div></div>
           <a title="ResearchGate" href="https://www.researchgate.net/profile/Thomas_Boyle2">
             <img
               className="fas fa-lg"

@@ -4,7 +4,7 @@ title: "Hey Ho, Let's do SEO"
 date: 2021-03-01T15:04:10.000Z
 featuredpost: true
 description: Motivations and Aims; Why this page exists
-featuredimage: /img/dumpsterfire.jpg
+featuredimage: /gifs/jazzhands.gif
 ---
 
 ### Better Late Than Never...
@@ -16,4 +16,6 @@ I doubt I'll ever reach quite the level of tech SEO experiments or tooling of so
 
 Regardless, I'll be posting a few results and potentially host some non-SEO tools here. There will also likely be some more miscellaneous posts that don't fit and will likely tank my topical relevance, but oh well. It is what it is.
 
-![giffy](/gifs/dumpsterfiregif.gif "Hunk a hunk a Burnin Love")
+Oh, and gifs. Fuck loads of gifs.
+
+![Tada!](/gifs/jazzhands.gif "Tada")

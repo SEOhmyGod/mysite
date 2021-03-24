@@ -1,6 +1,7 @@
 ---
 templateKey: index-page
 title: SEOhmyGod
+image: /img/dumpsterfire.jpg
 subheading: A testing ground for everything and nothing
 
 main:

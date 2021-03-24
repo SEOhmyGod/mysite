@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import dumpsterfiregif from '../static/img/dumpsterfiregif.gif' 
+// import dumpsterfiregif from '../static/img/dumpsterfiregif.gif'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
@@ -21,7 +21,7 @@ export const IndexPageTemplate = ({
       className="full-width-image margin-top-0"
       style={{
         backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : {dumpsterfiregif}
+          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,

@@ -12,7 +12,7 @@ featuredimage: /img/merkel_queen.jpeg
 ---
 
 >
-## So you're learning German
+### So you're learning German
 
 Half way through an article, or in the middle of a conversation, patiently waiting for the verb to arrive at the end of a sentence (The quick brown fox over the lonely dog jumps, z.b.), and **blam:**
 There's a word that you recognize, that doesn't immediately induce Duo-based PTSD. A word from a language you actually speak with confidence! There's at least three ways it can go down from here:
@@ -25,7 +25,7 @@ There's a word that you recognize, that doesn't immediately induce Duo-based PTS
 Obviously, the road ahead to die Zungenfertigkeit is fraught with danger, but you need to act quickly. What are the chances of each of the above cases? What are the odds?
 Here's a non-exhaustive look at cognates, false friends & similar words, bundled into some vaguely scientific-looking graphs to reassure you that this is trustworthy to some degree.
 
-## Select False Friends
+### Select False Friends
 
 | German | English | German meaning | English Meaning | Example of fallout |
 |:-------------:|:-------------:|:---------------:|:----------------:|:-------------------:|
@@ -44,7 +44,7 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 
 
 
-## Select Cognates (True Friends who help you hide ze Körper)
+### Select Cognates (True Friends who help you hide ze Körper)
 
 
 | German | English | Meaning | Example of awesomeness |
@@ -64,18 +64,18 @@ Here's a non-exhaustive look at cognates, false friends & similar words, bundled
 | trink |  drink | to imbibe a liquid, probably alcohol | Imbibe enough, and it won't even matter if this word is your friend or not |
 
 
-## Edge cases / Weirdness
+### Edge cases / Weirdness
 There are a few cases that you can rely on in principle, but even if the word does indeed retain it's meaning across the language divide, it's pronunciation will likely not have survived the crossing. Anything that stems from Latin will be great, as soon as you learn how to say it properly. Examples such as "Anesthesia", "Anesthesiologist", "Anasthetic", or any medical term will take some getting used to in order to use effectively, but once you've got it, you can be sure you'll have issues saying it in English forever more.
 
 
-## Summation & Conclusion
+### Summation & Conclusion
 So how does German fare? Will it get Kohle or Kohle for Christmas?  
  ![50 50 graph](/img/santaeatyourheartout.jpg "santaeatyourheatout")  
  In the end, it's the same as any other language compared to your own. Some similarities are helpful, others aren't. What matters is practice, and being able to enjoy (and learn from) the mistakes you'll make along the way. [Cue Hallmark schmalzy music]
 if you're feeling disappointed by this on-the-fence result, it Zauns about right to me :)
 
 
-## Sources
+#### Sources
 -[Englisch Hilfen](https://www.englisch-hilfen.de/en/words/false_friends.htm)  
 -[Fleuntu](https://www.fluentu.com/blog/german/false-friends-english-german/)  
 -[The Local](https://www.thelocal.de/20180312/the-top-10-false-friends-between-german-and-english)  

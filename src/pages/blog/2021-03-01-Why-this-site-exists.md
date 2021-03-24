@@ -1,10 +1,11 @@
 ---
 templateKey: 'blog-post'
 title: "Hey Ho, Let's do SEO"
+date: 2021-03-01T15:04:10.000Z
 featuredpost: true
-description:
+description: Motivations and Aims; Why this page exists
+featuredimage: /img/dumpsterfire.jpg
 ---
-
 
 ### Better Late Than Never...
 I've been in 'doing' SEO for coming on 4 years now, and I've been extremely lucky to have been afforded opportunities aplenty to try out a great many hypotheses and get paid while doing it. I've learned buckets of stuff and earned some big wins along the way, but I've always been aware that my SEO knowledge is theoretical in the sense that *I can't physically do any of the things I tell people to do all day*. This is clearly a privileged position to be in, but learning by doing always has a certain inherent value. As no actual software engineer in their right mind will let me near a production codebase (for good reason), I'm building this site.

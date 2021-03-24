@@ -1,7 +1,6 @@
 ---
 templateKey: 'blog-post'
 title: 'Hey Ho, Let's do SEO'
-date: 2021-02-01T15:04:10.000Z
 featuredpost: true
 description:
 ---

@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: 'Hey Ho, Let's do SEO'
+title: "Hey Ho, Let's do SEO"
 featuredpost: true
 description:
 ---

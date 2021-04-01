@@ -37,7 +37,7 @@ twitter:image="/img/dumpsterfire.jpg",
           site: '@Difeorleth',
           cardType: 'summary_large_image',
         },
-      },12
+      },
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         resolveEnv: () => process.env.GATSBY_ENV,

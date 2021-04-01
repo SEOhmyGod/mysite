@@ -16,6 +16,7 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
+  <>
   <GatsbySeo
       openGraph={{
         title: title,
@@ -110,6 +111,7 @@ export const IndexPageTemplate = ({
       </div>
     </section>
   </div>
+  </>
 )
 
 IndexPageTemplate.propTypes = {

@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
+import { GatsbySeo } from 'gatsby-plugin-next-seo';
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
@@ -15,6 +16,20 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
+  <GatsbySeo
+      openGraph={{
+        title: title,
+        description: description,
+        images: [
+          {
+            url: image,
+            width: 800,
+            height: 600,
+            alt: 'image',
+          },
+        ],
+      }}
+    />
   <div>
     <div
       className="full-width-image margin-top-0"
@@ -124,6 +139,7 @@ const IndexPage = ({ data }) => {
         intro={frontmatter.intro}
       />
     </Layout>
+
   )
 }
 

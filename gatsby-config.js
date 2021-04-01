@@ -25,6 +25,19 @@ twitter:image="/img/dumpsterfire.jpg",
   },
   plugins: [
     {
+      resolve: 'gatsby-plugin-next-seo',
+      options: {
+        openGraph: {
+          type: 'website',
+          url: 'https://seohmygod.me/',
+          site_name: 'SeOhMyGod',
+        },
+        twitter: {
+          handle: '@Difeorleth',
+          site: '@Difeorleth',
+          cardType: 'summary_large_image',
+        },
+      },12
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         resolveEnv: () => process.env.GATSBY_ENV,

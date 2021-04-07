@@ -77,6 +77,7 @@ twitter:image="/img/dumpsterfire.jpg",
     },
     'gatsby-transformer-sharp',
     `gatsby-plugin-sharp`,
+    'gatsby-plugin-next-seo',
   {
     resolve: `gatsby-transformer-remark`,
     options: {

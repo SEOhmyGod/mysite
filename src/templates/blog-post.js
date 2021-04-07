@@ -5,6 +5,7 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import { GatsbySeo } from 'gatsby-plugin-next-seo'
 
 export const BlogPostTemplate = ({
   content,

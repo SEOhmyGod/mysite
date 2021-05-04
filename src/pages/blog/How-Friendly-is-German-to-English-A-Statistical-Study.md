@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: 'How Friendly is German to English? - A Statistical Study'
 date: 2021-03-10T15:04:10.000Z
 featuredpost: true
-description: A tongue in cheek statistical treatment of false friends and cognates between German and English
+description: A tongue in cheek statistical treatment of false friends and cognates between German and English, sourced from my own memorable / traumatic experiences
 tags:
  - languages
  - science

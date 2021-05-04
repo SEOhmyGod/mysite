@@ -14,6 +14,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  featuredimage,
 }) => {
   const PostContent = contentComponent || Content
 
@@ -65,7 +66,7 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
       //  description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate="%s | SEOhmyGod Blog">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"

@@ -43,7 +43,13 @@ class BlogRoll extends React.Component {
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.excerptAst.children
+                    .filter(elm => elm.tagName === 'p')
+                    .map(elm => elm.children
+                        .filter(pelm => pelm.type === 'text')
+                        .map(pelm => pelm.value)
+                        .join(' '))
+                  }
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -77,6 +83,7 @@ export default () => (
           edges {
             node {
               excerpt(pruneLength: 400)
+              excerptAst(pruneLength: 400)
               id
               fields {
                 slug

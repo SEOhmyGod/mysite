@@ -5118,14 +5118,7 @@
   dependencies:
     "ms" "2.0.0"
 
-"debug@^2.6.0":
-  "integrity" "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
-  "resolved" "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz"
-  "version" "2.6.9"
-  dependencies:
-    "ms" "2.0.0"
-
-"debug@^2.6.6":
+"debug@^2.6.0", "debug@^2.6.6":
   "integrity" "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
   "resolved" "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz"
   "version" "2.6.9"
@@ -7317,7 +7310,6 @@
     "svgo" "1.3.2"
     "uuid" "3.4.0"
 
-
 "gatsby-plugin-typescript@^2.12.1":
   "integrity" "sha512-p32qJVDi5Xw1Oo5vLMUXdRBxSDlMrfxTGb7etMAsVfyLRlRhMLb2YsuXJIvN1IfybQ6Z3EbhlH293cpxn5jozg=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.12.1.tgz"
@@ -7410,9 +7402,9 @@
     "yoga-layout-prebuilt" "^1.9.6"
 
 "gatsby-remark-classes@^1.0.0":
-  "integrity" "sha512-F0pM8FdTwqFDDiP2qR4TnZZmkRI6Q3Mry/qzbxI4ORE/7ZnR6EKfvA1DryZ2RnrZyVUnbBEdzmZDPAYcBPE4PA=="
-  "resolved" "https://registry.npmjs.org/gatsby-remark-classes/-/gatsby-remark-classes-1.0.0.tgz"
-  "version" "1.0.0"
+  "integrity" "sha512-axPrsd7zCu9hU39C5m6HpIRrGsUrvXlvQ8YmoJGmFQo+0KkA2z+hCHb/FpjWyC6N6P9KXZFNQqzBX4cugDcS6A=="
+  "resolved" "https://registry.npmjs.org/gatsby-remark-classes/-/gatsby-remark-classes-1.0.2.tgz"
+  "version" "1.0.2"
   dependencies:
     "unist-util-select" "^2.0.2"
 
@@ -7539,7 +7531,7 @@
     "semver" "^7.3.4"
     "sharp" "^0.27.0"
 
-"gatsby@^2", "gatsby@^2.0.0", "gatsby@^2.0.101", "gatsby@^2.12.0", "gatsby@^2.12.1", "gatsby@^2.2.0", "gatsby@^2.20.35", "gatsby@^2.24.79", "gatsby@^3.0.0-next.0", "gatsby@^4.0.0 || ^3.0.0 || ^2.0.0", "gatsby@>2.0.0-beta", "gatsby@>2.0.15":
+"gatsby@^2", "gatsby@^2.0.0", "gatsby@^2.0.101", "gatsby@^2.12.0", "gatsby@^2.12.1", "gatsby@^2.2.0", "gatsby@^2.20.35", "gatsby@^2.24.79", "gatsby@^4.0.0 || ^3.0.0 || ^2.0.0", "gatsby@>2.0.0-beta", "gatsby@>2.0.15":
   "integrity" "sha512-BYfiI/k+t8m/IzSkWZH8Cc0v7rJw6giSjG5sX25LWdfkQMqUvg/Gn6OC8BWwRPXnEwe7x0n5jbH+peO0p34ZHQ=="
   "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-2.32.13.tgz"
   "version" "2.32.13"
@@ -14239,7 +14231,7 @@
   dependencies:
     "prop-types" "^15.5.8"
 
-"react-is@^16.12.0", "react-is@^16.13.1", "react-is@^16.6.0", "react-is@^16.7.0", "react-is@^16.8.1", "react-is@16.13.1":
+"react-is@^16.12.0", "react-is@^16.13.1", "react-is@^16.6.0", "react-is@^16.7.0", "react-is@16.13.1":
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
@@ -16083,19 +16075,7 @@
     "socket.io-adapter" "~2.1.0"
     "socket.io-parser" "~4.0.3"
 
-"sockjs-client@^1.4.0", "sockjs-client@1.1.4":
-  "integrity" "sha1-W6vjhrd15M8U51IJEUUmVAFsixI="
-  "resolved" "https://registry.npmjs.org/sockjs-client/-/sockjs-client-1.1.4.tgz"
-  "version" "1.1.4"
-  dependencies:
-    "debug" "^2.6.6"
-    "eventsource" "0.1.6"
-    "faye-websocket" "~0.11.0"
-    "inherits" "^2.0.1"
-    "json3" "^3.3.2"
-    "url-parse" "^1.1.8"
-
-"sockjs-client@^1.5.0":
+"sockjs-client@^1.4.0", "sockjs-client@^1.5.0":
   "integrity" "sha512-ZzRxPBISQE7RpzlH4tKJMQbHM9pabHluk0WBaxAQ+wm/UieeBVBou0p4wVnSQGN9QmpAZygQ0cDIypWuqOFmFQ=="
   "resolved" "https://registry.npmjs.org/sockjs-client/-/sockjs-client-1.5.2.tgz"
   "version" "1.5.2"
@@ -16106,6 +16086,18 @@
     "inherits" "^2.0.4"
     "json3" "^3.3.3"
     "url-parse" "^1.5.3"
+
+"sockjs-client@1.1.4":
+  "integrity" "sha1-W6vjhrd15M8U51IJEUUmVAFsixI="
+  "resolved" "https://registry.npmjs.org/sockjs-client/-/sockjs-client-1.1.4.tgz"
+  "version" "1.1.4"
+  dependencies:
+    "debug" "^2.6.6"
+    "eventsource" "0.1.6"
+    "faye-websocket" "~0.11.0"
+    "inherits" "^2.0.1"
+    "json3" "^3.3.2"
+    "url-parse" "^1.1.8"
 
 "sockjs@^0.3.21":
   "integrity" "sha512-GJgLTZ7vYb/JtPSSZ10hsOYIvEYsjbNU+zPdIHcUaWVNUEPivzxku31865sSSud0Da0W4lEeOPlmw93zLQchuQ=="
@@ -17361,7 +17353,12 @@
   "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-0.11.0.tgz"
   "version" "0.11.0"
 
-"type-fest@^0.13.1", "type-fest@^0.15.1":
+"type-fest@^0.13.1":
+  "integrity" "sha512-34R7HTnG0XIJcBSn5XhDd7nNFPRcXYRZrBB2O2jdKqYODldSzBAqzsWoZYYvduky73toYS/ESqxPvkDf/F0XMg=="
+  "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-0.13.1.tgz"
+  "version" "0.13.1"
+
+"type-fest@^0.15.1":
   "integrity" "sha512-n+UXrN8i5ioo7kqT/nF8xsEzLaqFra7k32SEsSPwvXVGyAcRgV/FUQN/sgfptJTR1oRmmq7z4IXMFSM7im7C9A=="
   "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-0.15.1.tgz"
   "version" "0.15.1"

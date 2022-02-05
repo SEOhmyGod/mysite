@@ -7317,12 +7317,6 @@
     "svgo" "1.3.2"
     "uuid" "3.4.0"
 
-"gatsby-plugin-twitter@^3.0.0":
-  "integrity" "sha512-krn2qtuFx1SahLLWy3pt4Bih/q76mG2mmR4ek/EJeAwaZHhvh8Yj15zx5W33vhPe5028GVDE3ll2s/8pec8gAw=="
-  "resolved" "https://registry.npmjs.org/gatsby-plugin-twitter/-/gatsby-plugin-twitter-3.0.0.tgz"
-  "version" "3.0.0"
-  dependencies:
-    "@babel/runtime" "^7.12.5"
 
 "gatsby-plugin-typescript@^2.12.1":
   "integrity" "sha512-p32qJVDi5Xw1Oo5vLMUXdRBxSDlMrfxTGb7etMAsVfyLRlRhMLb2YsuXJIvN1IfybQ6Z3EbhlH293cpxn5jozg=="

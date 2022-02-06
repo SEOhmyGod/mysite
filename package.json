@@ -6,6 +6,7 @@
   "dependencies": {
     "-": "0.0.1",
     "bulma": "^0.9.0",
+    "fs.promises": "^0.1.2",
     "gatsby": "^2.20.35",
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-advanced-sitemap": "^1.5.7",

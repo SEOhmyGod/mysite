@@ -7273,7 +7273,7 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-"gatsby-plugin-robots-txt@^1.5.5":
+"gatsby-plugin-robots-txt@^1.7.0":
   "integrity" "sha512-Y1D8FBeXNtECoCd0g0jIkhKpSvzFzeh2xpt1xTvGluRP6xmqJq7iB3DPEv7xqGlZAcfzaSxw/j5++Y+3WLva8A=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-robots-txt/-/gatsby-plugin-robots-txt-1.7.0.tgz"
   "version" "1.7.0"
